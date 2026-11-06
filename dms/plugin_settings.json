@@ -1,0 +1,28 @@
+{
+  "dankHyprlandWindows": {
+    "enabled": true
+  },
+  "dankBatteryAlerts": {
+    "enabled": true,
+    "criticalThreshold": 15,
+    "warningThreshold": 25
+  },
+  "dankLauncherKeys": {
+    "enabled": true
+  },
+  "dankClight": {
+    "enabled": false
+  },
+  "displaySettings": {
+    "enabled": false
+  },
+  "displayOutput": {
+    "enabled": true
+  },
+  "tailscale": {
+    "enabled": false
+  },
+  "dankscale": {
+    "enabled": true
+  }
+}

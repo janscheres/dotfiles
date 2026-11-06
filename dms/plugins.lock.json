@@ -1,0 +1,33 @@
+{
+  "lockfileVersion": 1,
+  "plugins": {
+    "dankBatteryAlerts": {
+      "repo": "https://github.com/AvengeMedia/dms-plugins",
+      "path": "DankBatteryAlerts",
+      "commit": "141841fc85e01494df6d217bd5a27c65da87256d"
+    },
+    "dankDesktopWeather": {
+      "repo": "https://github.com/AvengeMedia/dms-plugins",
+      "path": "DankDesktopWeather",
+      "commit": "141841fc85e01494df6d217bd5a27c65da87256d"
+    },
+    "dankHyprlandWindows": {
+      "repo": "https://github.com/AvengeMedia/dms-plugins",
+      "path": "DankHyprlandWindows",
+      "commit": "141841fc85e01494df6d217bd5a27c65da87256d"
+    },
+    "dankLauncherKeys": {
+      "repo": "https://github.com/AvengeMedia/dms-plugins",
+      "path": "DankLauncherKeys",
+      "commit": "141841fc85e01494df6d217bd5a27c65da87256d"
+    },
+    "dankscale": {
+      "repo": "https://github.com/dwright134/dms-dankscale",
+      "commit": "4117385f371b730ce595be182eaa365f77bf8c50"
+    },
+    "displayOutput": {
+      "repo": "https://github.com/xyzsteven/dms-displayoutput",
+      "commit": "3bee076c67761aaba2b4b129a7c2d2acc8552545"
+    }
+  }
+}
