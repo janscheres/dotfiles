@@ -2,7 +2,6 @@
 
 Personal dotfiles reflecting the current system environment (EndeavourOS / Arch Linux with Hyprland + DankMaterialShell).
 
-![An example screenshot](https://github.com/janscheres/dotfiles/blob/main/screenshot.png)
 
 ## Current Setup
 
